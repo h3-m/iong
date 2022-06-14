@@ -1,0 +1,12 @@
+{
+  "name":"14100_yokohama_tran",
+  "description":"",
+  "version":2,
+  "minzoom":8,
+  "maxzoom":15,
+  "center":"139.5923936,35.4527686,0",
+  "bounds":"139.4645536,35.3126798,139.7202336,35.5928574",
+  "type":"overlay",
+  "format":"pbf",
+  "json":"{\n  \"vector_layers\":[\n    {\n      \"id\":\"road\",\n      \"description\":\"\",\n      \"minzoom\":8,\n      \"maxzoom\":15,\n      \"fields\":{\n      }\n    }\n  ],\n  \"tilestats\":{\n    \"layerCount\":1,\n    \"layers\":[\n      {\n        \"layer\":\"road\",\n        \"count\":118961,\n        \"geometry\":\"Polygon\",\n        \"attributeCount\":0,\n        \"attributes\":[\n        ]\n      }\n    ]\n  }\n}"
+}
